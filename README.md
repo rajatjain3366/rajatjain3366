@@ -55,8 +55,8 @@ I build scalable web applications and backend systems, and I learn new technolog
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rajatjain3366&show_icons=true&theme=transparent&title_color=0969da&text_color=57606a&icon_color=0969da&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatjain3366&layout=compact&theme=transparent&title_color=0969da&text_color=57606a&hide_border=true" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=rajatjain3366&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rajatjain3366&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
