@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rajat%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" alt="Rajat Jain" />
+  <img src="./header.svg" width="100%" alt="Rajat Jain" />
 </p>
 
 <p align="center">
@@ -114,5 +114,5 @@ class RajatJain:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+  <img src="./footer.svg" width="100%" alt="footer" />
 </p>
