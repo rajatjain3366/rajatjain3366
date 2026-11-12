@@ -99,7 +99,7 @@ class RajatJain:
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajatjain3366&bg_color=0d1117&color=4fc3f7&line=2c5364&point=ffffff&area=true&area_color=203a43&hide_border=true" alt="Contribution graph" />
+  <img width="100%" src="https://ghchart.rshah.org/2c5364/rajatjain3366" alt="Contribution calendar" />
 </p>
 
 <br />
